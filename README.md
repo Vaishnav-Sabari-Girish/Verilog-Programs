@@ -2,6 +2,11 @@
 
 These are my verilog programs. 
 
+## Programs 
+
+1. [Hello World](hello_world/hello_world.v)
+2. [NOT Gate](not_gate/not_gate.v)
+
 Compilation steps (for my personal use) 
 
 1. Do not add the `include in the testbench file. 
