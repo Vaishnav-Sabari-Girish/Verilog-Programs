@@ -5,7 +5,7 @@ These are my verilog programs.
 ## Programs 
 
 1. [Hello World](hello_world/hello_world.v)
-2. [NOT Gate](not_gate/not_gate.v)
+2. [NOT Gate](not_gate/NOT_GATE.md)
 
 Compilation steps (for my personal use) 
 
