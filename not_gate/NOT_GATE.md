@@ -2,3 +2,4 @@
 
 1. [Gate Level](gate_level/not_gate.v)
 2. [Dataflow](dataflow/not_gate.v)
+3. [Behavioural](behavioural/not_gate.v)
